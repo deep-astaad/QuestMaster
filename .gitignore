@@ -1,3 +1,4 @@
 QA_RAG_GPT/.env
 QA_RAG_GPT/token.json
 QA_RAG_GPT/secure-connect-questmaster.zip
+__pycache__
