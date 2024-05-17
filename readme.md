@@ -38,16 +38,16 @@ Follow these steps to set up and run the application:
 
 ```bash
 
-git  clone  <https://github.com/deep-astaad/QuestMaster.git>
+git  clone  https://github.com/deep-astaad/QuestMaster.git
 
-cd  <QuestMaster>
+cd  QuestMaster
 
 ```
 
   
   
 
-### 2. Clone the Repository
+### 2. Create Virtual Environment
 
 ```bash
 
